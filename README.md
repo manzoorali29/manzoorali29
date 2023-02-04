@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-I'm a doctoral student and NLP enthusiast, researcher, developer, educator, and data scientist. I am a early stage researcher at DICE, a research group dedicated to making knowledge graphs more accessible and useful, I am doing my Ph.D. from the University of Paderborn Germany.
+I'm a doctoral student, NLP enthusiast, researcher, developer, educator, and data scientist. I am a early stage researcher at DICE, a research group dedicated to making knowledge graphs more accessible and useful, I am doing my Ph.D. from the University of Paderborn Germany.
 
 I have a four months old son, and live in a beautiful and calm district of Paderborn, after spending most of my life in Pakistan. You might have seen me in different city of Pakistan.
 
