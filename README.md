@@ -13,7 +13,7 @@ Furthermore, I have a five months old son, and live in a beautiful and calm dist
 Find more about me https://manzoorali29.github.io/protfolio/index.html
 
 - 🔭 I’m currently working on NLP emerging entities' recognition.
-- 🌱 I’m currently PyTorch for NLP
+- 🌱 I’m currently learning PyTorch for NLP
 - 👯 I’m looking to collaborate on NLP and semantic web related research.
 - 🤔 I’m looking for help with some good English and German Language learning.
 - 💬 Ask me about Development of android applications, but not my salary 😄
