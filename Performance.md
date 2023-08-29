@@ -106,7 +106,7 @@ This document provides an overview of my performance, achievements, and contribu
         - [Dr. Diego Moussallem](https://dice-research.org/DiegoMoussallem)
 
 ## Social Media
-<img src="22.11.22.png" alt="Model Image" width="70%" height="70%">
+<img src="social.jpg" alt="Model Image">
 
 ## Feedback and Improvements
 
@@ -114,11 +114,11 @@ This document provides an overview of my performance, achievements, and contribu
 - Looking forward to your thoughts: ___________________________________________________________________________________________________________________________________________________________________
 
 ## Conclusion
+As I anticipate the future, I am steadfast in my commitment to persistently contribute positively to [DICE](https://dice-research.org/) and to consistently enhance my performance.
 
-As I look ahead, I am committed to continuing my efforts to contribute positively to [DICE](https://dice-research.org/) and further elevate my performance.
-**Note** I have not provided details of my personal achivements and learning For example certificates and German Courses etc.
+**Note:** I have refrained from detailing my personal accomplishments and acquired skills, including certificates and German language courses.
 
 Thank you for your support and guidance.
 
 Sincerely,
-[Manzoor Ali] (https://dice-research.org/ManzoorAli)
+[Manzoor Ali](https://dice-research.org/ManzoorAli)
