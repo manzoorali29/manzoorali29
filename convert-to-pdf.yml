@@ -1,0 +1,21 @@
+name: Convert Markdown to PDF
+
+on:
+  push:
+    branches:
+      - main  # Replace with your target branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Pandoc
+      uses: docker://pandoc/core:2.14
+
+    - name: Convert to PDF
+      run: |
+        pandoc Performance.md -o output.pdf
