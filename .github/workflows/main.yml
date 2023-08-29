@@ -13,12 +13,11 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Install Pandoc
+    - name: Install Pandoc and pdflatex
       run: |
         sudo apt-get update
-        sudo apt-get install -y pandoc
+        sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended
 
     - name: Convert to PDF
       run: |
-        pandoc Performance.md -o output.pdf --pdf-engine=xelatex
-
+        pandoc input.md -o output.pdf --pdf-engine=pdflatex
