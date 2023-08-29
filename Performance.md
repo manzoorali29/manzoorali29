@@ -50,12 +50,14 @@ This document provides an overview of my performance, achievements, and contribu
 
 ### 2. Papers
 #### Paper A: [SURE](https://papers.dice-research.org/2022/ICSC_SURE/public.pdf) Unsupervised Relation Extraction with Sentence level Distributional Semantics
-- The paper was accepted this year ICSC 2023 and presented succfully.
-  ![Cat Image](cat.jpg){ width=50% height=50% }
+- The paper was accepted at ICSC 2023 and was successfully presented.
+- Code [GitHub Repo](https://github.com/manzoorali29/SURE)
+  ![Model Image](Example.png)
 
 #### Paper B: [RELD](https://papers.dice-research.org/2023/RELD/public.pdf) A Knowledge Graph of Relation Extraction Datasets
-- The paper was accepted this year ESWC 2023 and presented succfully, the paper got appriciation from the related community. 
-
+- The paper was accepted at ESWC 2023 and was successfully presented. The paper received appreciation from the relevant community.
+- Code [GitHub Repo](https://github.com/dice-group/RELD) 
+  <img src="22.11.22.png" alt="Model Image" width="70%" height="70%">
 ## Challenges and Solutions
 
 - Overcame challenges in [situation], utilizing [strategy or approach] to achieve [positive outcome].
