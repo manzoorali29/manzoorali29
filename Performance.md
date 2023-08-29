@@ -12,14 +12,16 @@ This document provides an overview of my performance, achievements, and contribu
 
 ## Achievements
 
-### Project A: KISA
+### 1. Projects
+
+#### Project A: KISA
 
 - Effectively executed the implementation of its online API in advance of the projected timeline, leading to the creation of https://kisaa-ir.cs.upb.de/api/.
 - Additionally, accomplished the training of a re-ranker for information retrieval.
 - Currently, the project is progressing ahead of schedule.
 - Collaborated closely with the KISA/KIAM team to optimize and enhance operational workflows.
 
-### Skill Development
+#### Skill Development
 
 - Gained proficiency in semantic search methodologies.
 - Acquired knowledge of various techniques related to indexing:
@@ -28,14 +30,31 @@ This document provides an overview of my performance, achievements, and contribu
     - Applied Nearest Neighbor Search (ANN) using Annoy, available at: [https://github.com/spotify/annoy](https://github.com/spotify/annoy)
     - Employed Nearest Neighbor Search (ANN) through Hnswlib, accessible at: [https://github.com/nmslib/hnswlib/](https://github.com/nmslib/hnswlib/)
 - Successfully completed a comprehensive information retrieval course on YouTube, aimed at deepening my understanding of the subject.
-### Project B: RELD
+#### Project B: RELD
 - Succefully completed the RELD (Relation Extraction Linked Data) project:
     - [GitHub Repository](https://github.com/dice-group/RELD)
     - [Documentation](https://manzoorali29.github.io/index.htm)
     - [Online](http://reld.cs.upb.de:8890/sparql)
     - [Paper](https://papers.dice-research.org/2023/RELD/public.pdf)
-### Skill Development
-- 
+#### Skill Development
+- Explored semantic web related technologies
+- RDFLib library
+- RDFize open-source relation extraction datasets
+- Created a unified schema
+
+#### Project C: SPARQL Embeddings
+- My task was to implement a transformer based encoder for the already generated embeddings
+- I have implemented the encoder
+#### Skill Development
+- Learns working in Pytorch
+
+### 2. Papers
+#### Paper A: [SURE](https://papers.dice-research.org/2022/ICSC_SURE/public.pdf) Unsupervised Relation Extraction with Sentence level Distributional Semantics
+- The paper was accepted this year ICSC 2023 and presented succfully.
+  ![Cat Image](cat.jpg){ width=50% height=50% }
+
+#### Paper B: [RELD](https://papers.dice-research.org/2023/RELD/public.pdf) A Knowledge Graph of Relation Extraction Datasets
+- The paper was accepted this year ESWC 2023 and presented succfully, the paper got appriciation from the related community. 
 
 ## Challenges and Solutions
 
