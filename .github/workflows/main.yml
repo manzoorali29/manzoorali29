@@ -20,4 +20,5 @@ jobs:
 
     - name: Convert to PDF
       run: |
-        pandoc Performance.md -o output.pdf
+        pandoc Performance.md -o output.pdf --pdf-engine=xelatex
+
