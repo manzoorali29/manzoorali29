@@ -20,4 +20,4 @@ jobs:
 
     - name: Convert to PDF
       run: |
-        pandoc input.md -o output.pdf --pdf-engine=pdflatex
+        pandoc Performance.md -o output.pdf --pdf-engine=pdflatex
