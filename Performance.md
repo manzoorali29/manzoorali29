@@ -12,7 +12,7 @@ This document provides an overview of my performance, achievements, and contribu
 
 ## Achievements
 
-### 1. Projects
+### *1. Projects*
 
 #### Project A: KISA
 
@@ -48,7 +48,7 @@ This document provides an overview of my performance, achievements, and contribu
 #### Skill Development
 - Learns working in Pytorch
 
-### 2. Papers
+### *2. Papers*
 #### Paper A: [SURE](https://papers.dice-research.org/2022/ICSC_SURE/public.pdf) Unsupervised Relation Extraction with Sentence level Distributional Semantics
 - The paper was accepted at ICSC 2023 and was successfully presented.
 - Code [GitHub Repo](https://github.com/manzoorali29/SURE)
@@ -60,7 +60,7 @@ This document provides an overview of my performance, achievements, and contribu
   <img src="22.11.22.png" alt="Model Image" width="70%" height="70%">
 
 
-### 3. Conferences:
+### *3. Conferences:*
 - This year I attended two international conferences:
     - [IEEE International Conference on SEMANTIC COMPUTING](https://semanticcomputing.wixsite.com/icsc2023) (February 1-3, 2023, California, USA) (Online)
     - [Extended Semantic Web Conference](https://2023.eswc-conferences.org/) (May 27- June 1 2023, Crete Greece) (Onsite) 
